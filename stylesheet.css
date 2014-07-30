@@ -1,5 +1,16 @@
+/* stylesheet.css */
+
+/* Style rule for the body element */
 body {
   background-color:#008000;
   background-image:url(pix/bkgdrops.jpg);
 }
+
+/* Style rule for the wrapper div */
+#wrapper {
+  width 900px;
+  margin:0 auto;
+  background-color: white;
+}
+
 
